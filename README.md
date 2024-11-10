@@ -15,20 +15,34 @@
   ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
 ```
 
-#### 현재 클라우드 컨테이너를 운용하고, 코드 기반의 서버 운영 및 관리를 공부하는 중이며,
-🤍 Cloud(AWS)와 DevSecOps, Server Administration, Linux, Shell Script, Python에 관심을 가지고 있습니다.
-
+#### 현재 클라우드와 코드 기반의 서버 운영 및 관리(IaC) 및 컨테이너 운용을 공부하는 중이며,
+###
+🤍 Cloud(AWS)와 DevSecOps, Container, Server Administration, Linux, Shell Script, Python에 관심을 가지고 있습니다.
+###
 💜 Bash Shell을 기반으로 Linux(CentOS) 환경에서 작성한 Shell Script code들은 제  [**BashScripts** 레포지토리](https://github.com/9rrrr-m/BashScripts.git)에서 공유하고 있습니다.
+###
+💙 Ansible 공부를 하며 제작한 코드와 Ansible-navigator를 사용할 수 있도록 초기 실습 환경 구축을 해주는 프로그램 등은 아래 레포지토리들에 있습니다.
 
+- [*Ansible_ENV_setting*](https://github.com/9rrrr-m/Ansible_ENV_setting) : Ansible-navigator 초기 환경 구축 프로그램
+- [*ansible_playbooks*](https://github.com/9rrrr-m/ansible_playbooks) : Ansible 공부하면서 작성한 플레이북 모음
+- [*bash_env*](https://github.com/9rrrr-m/bash_env) : Ansible Galaxy 공부를 위해 제작한 예제용 roles
+###
 🖤 [구름(9rrrr-m) ฅ^｡⩊ ｡^ฅ ੭](https://9rrrr-m.tistory.com/1)에는 공부한 내용 정리, 오류 발생시 해결 과정, 프로젝트 내용,  코딩테스트 문제 풀이 등 조금 더 text적인 내용들을 공유하고 있습니다.
 #
 ---
-### currently managing cloud containers and studying code-based server operation and management,
-🤍 I am interested in Cloud (AWS), DevSecOps, Server Administration, Linux, Shell Script, and Python.
+### Currently studying cloud, Infrastructure as Code (IaC) for code-based server operation and management, and container operation.
+###
+🤍 I am interested in Cloud (AWS), DevSecOps, Container, Server Administration, Linux, Shell Script, and Python.
+###
+💜 You can find Shell Script codes written in a Linux (CentOS) environment based on Bash Shell in my [**BashScripts** repository](https://github.com/9rrrr-m/BashScripts.git).
+###
+💙 Codes created while learning Ansible, as well as programs to set up an initial practice environment using Ansible-navigator, can be found in the following repositories:
 
-💜 I am sharing Shell Script code written for a Linux (CentOS) environment based on Bash Shell in my BashScripts repository.
-
-🖤 On my blog Cloud (9rrrr-m) ฅ^｡⩊ ｡^ฅ ੭, I share more textual content including study notes, troubleshooting processes, project details, and coding test solutions.
+- [*Ansible_ENV_setting*](https://github.com/9rrrr-m/Ansible_ENV_setting) : Program for setting up the initial environment for Ansible-navigator
+- [*ansible_playbooks*](https://github.com/9rrrr-m/ansible_playbooks) : Collection of playbooks created while studying Ansible
+- [*bash_env*](https://github.com/9rrrr-m/bash_env) : Example roles created for studying Ansible Galaxy
+###
+🖤 On [9rrrr-m’s blog ฅ^｡⩊ ｡^ฅ ੭](https://9rrrr-m.tistory.com/1), I share more text-based content, including study notes, solutions to errors, project details, and coding test problem-solving.
 #
 ---
 ✧ CONTACTS ✧ ฅ^｡⩊ ｡^ฅ ੭
