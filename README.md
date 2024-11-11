@@ -57,10 +57,10 @@
 #### E-mail 9rrrrm@gmail.com
 
 
-![enter image description here](https://blog.kakaocdn.net/dn/bXw28s/btsJPGXZ1qE/m7au62JXKq6ikrkJ7lGxCk/img.gif)
+![9rrrr-m_info_1](https://blog.kakaocdn.net/dn/bLNoVS/btsKFG9Awhy/2kzKgKSrxwngMCf4jEwaaK/img.gif)
 
-![enter image description here](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnIY2X%2FbtsJPQeUNhE%2FO1KExUgYwMu3Nv0fpfvEW0%2Fimg.png)
+![9rrrr-m_info_2](https://blog.kakaocdn.net/dn/Sc3hH/btsKFG2P4y2/iRgIMJLV7K7SPSpwHmzvPK/img.gif)
 
-![enter image description here](https://blog.kakaocdn.net/dn/bwS0ZS/btsJPNo2o7C/vBmynBUrr5D32RmemtEMN1/img.gif)
+![9rrrr-m_info_3](https://blog.kakaocdn.net/dn/byeNTy/btsKFiah8CQ/KSaf1ZFJETEYgE9D5XkF8k/img.gif)
 
-![enter image description here](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcyUYwZ%2FbtsJQDMCT2v%2FcxNrx5YKptGHfsda2eIExk%2Fimg.png)
+![9rrrr-m_info_4](https://blog.kakaocdn.net/dn/liiPX/btsKFBABBRb/Eg4HimjKhSfsxuf6wgGxj1/img.gif)
